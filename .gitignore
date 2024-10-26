@@ -1,3 +1,4 @@
 node_modules
 # Ignorar la carpeta de cobertura de Jest
 coverage/
+fibonacci/
